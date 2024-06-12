@@ -20,11 +20,11 @@ Both classification and regression models were employed, including logistic regr
 Model performance was assessed using ROC AUC curve, classification reports, confusion matrices, and training/validation loss for deep learning models.
 
 ## Dataset Source
+Global Suicide Rates 1990 to 2022
+(https://www.kaggle.com/datasets/ronaldonyango/global-suicide-rates-1990-to-2022)
 
-[https://www.kaggle.com/datasets/ronaldonyango/global-suicide-rates-1990-to-2022]
-[Global Suicide Rates 1990 to 2022]
 
 ## Reference
-[Mental Health Action Plan]
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5463019/]
+Mental Health Action Plan
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5463019/)
 Feel free to clone this repository and explore the code and findings further. If you have any questions or feedback, please don't hesitate to reach out!
